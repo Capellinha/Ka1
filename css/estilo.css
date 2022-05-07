@@ -1,0 +1,31 @@
+
+body{
+
+    background-image: url(https://i.imgur.com/Bg3qU3L.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+
+
+}
+
+figure {
+
+text-align: center;
+margin: auto;
+
+
+}
+
+.textos {
+
+    text-align: center;
+    color: #fe71ff;
+   
+}
+
+.icones{
+
+    text-align: center;
+
+}
